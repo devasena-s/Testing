@@ -1,2 +1,3 @@
 testing the document
-trailing
+trailing 
+testing the manual-ci
